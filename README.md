@@ -39,5 +39,5 @@ The repository include:
         
         
 * 2 final exams:    
-  [x] final exam A
-  [x] final exam B
+  - [x] final exam A
+  - [x] final exam B
