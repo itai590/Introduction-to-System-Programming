@@ -37,9 +37,7 @@ The repository include:
     <br />Low-Level Programming.
     <br />Bitwise operators, Bit fields in Structures.
         
-* 2 final exams:          
-                  
-
-
-* [x] final exam A
-* [x] final exam B
+        
+* 2 final exams:    
+  [x] final exam A
+  [x] final exam B
