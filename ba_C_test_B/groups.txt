@@ -1,0 +1,9 @@
+8
+TheBestSoftware 	9	4
+IT		10	3
+Secretary		9	3
+FriendsYosi	8	5
+MosHe		10	6
+Cleaners		8	5
+LATESecurety	11	4
+Securety		7	5
