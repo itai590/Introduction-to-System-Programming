@@ -18,5 +18,5 @@ The repository include:
   - [x] ab_HW3 - Awesome JavaFX Clock that say the time every 1 minute. (audio files)
    
 
-* [x] final exam - Tic Tac Toe game implemented using Memento and Singleton Desing Patterns. (JavaFX)
-* [x] final exam - Tic Tac Toe game implemented using Memento and Singleton Desing Patterns. (JavaFX)
+* [x] final exam A
+* [x] final exam B
