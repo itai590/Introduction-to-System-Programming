@@ -36,6 +36,8 @@ The repository include:
     <br />Binary files, Pointer to functions.
     <br />Low-Level Programming.
     <br />Bitwise operators, Bit fields in Structures.
+    
+    <br />
         
         
 * 2 final exams:    
