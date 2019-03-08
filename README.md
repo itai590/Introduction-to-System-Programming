@@ -12,14 +12,30 @@ manipulations, development process and tools
 The repository include:
 
 * 4 home assignments:
-  - [x] ba_HW1 - \Pointer variable, address and indirect operation.
-   \Pointer as function argument and return value.
-    \-Pointers arithmetic, pointers and arrays.
-    \-Multi-dimensional arrays
-  - [x] ba_HW2 - String literals, variables and idioms. String manipulations.
-  - [x] ba_HW3 - Structures, Unions and Enumerators. Dynamic memory allocation. Text files
-  - [x] ba_HW4 - Error handling, International features, Abstract Data Types, Variadic function.
-                  Binary files, Pointer to functions. Low-Level Programming. Bitwise operators. Bit fields in Structures.
+
+  - [x] ba_HW1:
+    <br />Pointer variable, address and indirect operation.
+    <br />Pointer as function argument and return value.
+    <br />Pointers arithmetic, pointers and arrays.
+    <br />Multi-dimensional arrays
+    
+  - [x] ba_HW2:
+    <br />String literals, variables and idioms.
+    <br />String manipulations.
+  
+
+  - [x] ba_HW3:
+    <br />Structures, Unions and Enumerators.
+    <br />Dynamic memory allocation.
+    <br />Text files
+  
+  
+  
+  - [x] ba_HW4:
+    <br />Error handling, International features, Abstract Data Types, Variadic function.
+    <br />Binary files, Pointer to functions.
+    <br />Low-Level Programming.
+    <br />Bitwise operators, Bit fields in Structures.
                   
                   
 
